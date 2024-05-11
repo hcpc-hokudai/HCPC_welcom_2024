@@ -19,4 +19,5 @@
 
 2. VSCode でフォルダを開く
 3. 拡張機能から「Marp for VS Code」をインストールする
-4. md ファイルを開いて Ctrl + Shift + v
+4. 設定 - `marp theme` で検索 - 項目の追加に `https://raw.githubusercontent.com/rnd195/my-marp-themes/main/beamer.css` を追加する
+5. md ファイルを開いて Ctrl + Shift + v
