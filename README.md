@@ -1,23 +1,15 @@
-# 新歓用資料
+# HCPC 新入生歓迎会 2024
 
-## Python 講義資料
+## day2 問題セット
 
-1. はじめに
-2. 変数と型
-3. 入力
-4. if 文
-5. for 文
-6. リスト
-7. 文字列
-8. 関数（省くかも）
+| 問題番号 | 問題名 |
+| --- | --- |
+| A | [Round One](https://atcoder.jp/contests/abc148/tasks/abc148_a) |
+| B | [2 番目に大きい整数](https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_a) |
+| C | [Common Raccoon vs Monster](https://atcoder.jp/contests/abc153/tasks/abc153_b) |
+| D | [二乗](https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_b) |
+| E | [Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a) |
+| F | [総和](https://atcoder.jp/contests/abc037/tasks/abc037_c) |
+| G | [Box and Ball](https://atcoder.jp/contests/agc002/tasks/agc002_b) |
+| H | [AND Grid](https://atcoder.jp/contests/agc004/tasks/agc004_c) |
 
-### スライドの見方
-
-1. このリポジトリをローカルにクローンする
-
-    `git clone https://github.com/hcpc-hokudai/HCPC_welcom_2024.git`
-
-2. VSCode でフォルダを開く
-3. 拡張機能から「Marp for VS Code」をインストールする
-4. 設定 - `marp theme` で検索 - 項目の追加に `https://raw.githubusercontent.com/rnd195/my-marp-themes/main/beamer.css` を追加する
-5. md ファイルを開いて Ctrl + Shift + v
