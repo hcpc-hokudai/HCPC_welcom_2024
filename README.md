@@ -12,4 +12,3 @@
 | F | [総和](https://atcoder.jp/contests/abc037/tasks/abc037_c) |
 | G | [Box and Ball](https://atcoder.jp/contests/agc002/tasks/agc002_b) |
 | H | [AND Grid](https://atcoder.jp/contests/agc004/tasks/agc004_c) |
-

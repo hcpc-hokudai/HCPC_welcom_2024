@@ -21,6 +21,7 @@ style: |
 
 
 ---
+<!-- paginate: true -->
 
 # 計算量とは
 
