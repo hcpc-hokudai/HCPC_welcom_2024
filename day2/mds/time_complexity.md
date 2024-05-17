@@ -104,7 +104,7 @@ for i in range(N):
 
 <br>
 
-Q. 配列 $A$ と $B$ が与えられる。 $A_1 \times B_1 + A_1 \times B_2 + \cdots + A_N \times B_N$ を計算せよ。
+Q. 配列 $A$ と $B$ が与えられる。 $\sum_{i=0}^{N-1} \sum_{j=0}^{N-1}{A_i \cdot B_j}$ を計算せよ。
 
 
 ```py
