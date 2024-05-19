@@ -1,5 +1,11 @@
 # HCPC 新入生歓迎会 2024
 
+- [新歓スライドのリンク](https://docs.google.com/presentation/d/1csFjCu8FmVsiZssE7ipCfN8JK5cYSXZeaHDmYRlqiJc/edit?usp=sharing)
+
+- [day1 で用いた資料のリンク](https://github.com/hcpc-hokudai/HCPC_welcome_2024/tree/main/pdfs)
+
+- [HCPC Discord サーバーへの招待リンク](https://discord.gg/wztZYM7JNY)
+
 ## day2 問題セット
 
 | 問題番号 | 問題名 |
